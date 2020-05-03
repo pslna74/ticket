@@ -1,0 +1,54 @@
+.fcode {
+ 
+    border-bottom: 2px dashed black;
+    width: 40%;
+    padding-left: 16px;
+}
+.brd {
+ border: 1px solid black;
+ width: 55%;
+ font-size: 10px;
+
+}
+
+   .hm1 {
+    margin-left: 16px;
+    margin-top: 15px;
+    
+   }
+   .inpu1 , .inpu2 , .inpu3 , .inpu4{
+       margin-bottom: 15px;
+       border: 1px solid #ffffff;
+       color: #ffffff;
+       display: inline-block;
+       }
+
+   .hm1 {
+       
+    border-bottom: 2px dashed black;
+    width: 40%;
+   }
+   .hm1 p {
+       color: #262626;
+   }
+   .hm2 {
+    margin-left: 16px;
+    margin-top: 15px;
+   }
+   .hm3 {
+      
+       display: inline-block;
+       margin-left:65%;
+       margin-top: -60%;
+    
+   }
+   .hm4 {
+       margin-left: 90%;
+       margin-top: -360px;
+       display: inline;
+       float: right;
+      
+       height:  50%;
+ 
+   }
+   
